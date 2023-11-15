@@ -1,0 +1,36 @@
+body {
+    background-color: #ffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+a {
+    color: black;
+    list-style: none;
+    list-style-type: none;
+    font-family: cursive;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+
+/* Menentukan lebar maksimal gambar agar tidak melebihi lebar layar */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    /* Membuat gambar berada di tengah */
+}
+
+h3{
+    font-size: 25px;
+}
